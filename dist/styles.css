@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+}
+
+.btn {
+	border-radius: .5em;
+	font-size: 1em;
+	margin: 1em auto;
+	padding: 1em;	
+}
+
+.btn--primary {
+	background-color: #ccf;
+}
+
+.btn--secondary {
+	background-color: #fcc;
+}
+
+.btn--full-width {
+	width: 100%;
+}
+
+th,
+td {
+	border-bottom: 1px solid #bbb;
+	text-align: left;
+}
